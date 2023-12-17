@@ -1,5 +1,9 @@
 # blockchain_study
 
+## Courses
+
+[blockchain security (English)](https://www.coursera.org/learn/blockchain-security?)
+
 ## Consensus
 
 [什麼是區塊鏈共識演算法 (Chinese)](https://academy.binance.com/zt/articles/what-is-a-blockchain-consensus-algorithm)<br />
